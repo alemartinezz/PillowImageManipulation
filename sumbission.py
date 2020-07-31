@@ -1,8 +1,6 @@
 import PIL
 from PIL import Image, ImageDraw
 
-# build a list of 9 images which have different brightnesses
-
 # read image and convert to RGB
 image = Image.open("readonly/msi_recruitment.gif").convert('RGB')
 
