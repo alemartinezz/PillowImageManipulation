@@ -1,3 +1,3 @@
 # PillowImageManipulation
 
-![Output](https://github.com/alemartinezz/PillowImageManipulation/master/output.png?raw=true)
+![Output](https://github.com/alemartinezz/PillowImageManipulation/blob/master/output.png?raw=true)
